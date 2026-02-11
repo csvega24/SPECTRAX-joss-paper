@@ -64,9 +64,9 @@ NERSC Perlmutter HPE Cray EX supercomputer. Simulations with varying numbers of 
 
 | Hermite modes | 4 | 5 | 6 | 8 | 10 |
 |---|---:|---:|---:|---:|---:|
-| Compilation time (s) | 42 | 105 | 119 | 247 | 492 |
-| Wall-clock time, no compilation (s) | 33 | 100 | 107 | 242 | 486 |
-| Difference (s) | 9 | 5 | 12 | 5 | 6 |
+| Wall-clock time (incl. compilation) (s) | 42 | 105 | 119 | 247 | 492 |
+| Wall-clock time (excl. compilation) (s) | 33 | 100 | 107 | 242 | 486 |
+| Compilation overhead (s) | 9 | 5 | 12 | 5 | 6 |
 
 Table: Comparison of Orszag–Tang simulation runtime on GPU, with and without compilation time. \label{tbl:compiletime}
 
