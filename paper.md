@@ -16,7 +16,7 @@ authors:
   - name: Benjamin Herfray
     affiliation: 1
 affiliations:
-  - name: University of Wisconsin–Madison
+  - name: Department of Physics, University of Wisconsin–Madison
     index: 1
 date: 2026-02-11
 bibliography: paper.bib
