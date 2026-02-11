@@ -77,7 +77,7 @@ Table: Comparison of Orszag–Tang simulation runtime on GPU, with and without c
 ![Two-stream instability. Left: Electric energy and growth rate. Right: Energy vs time and relative energy error.](figures/fig_twostream.png){#fig:twostream}
 
 
-![Orszag–Tang vortex. Left: out-of-plane current density at $t\omega_{pe}=500$. Right: running time on CPU and GPU vs number of Hermite modes.](figures/fig_orszagtang.png){#fig:orszagg}
+![Orszag–Tang vortex. Left: out-of-plane current density at $t\omega_{pe}=500$. Right: running time on CPU and GPU vs number of Hermite modes.](figures/fig_orszagtang.png){#fig:orszag}
 
 
 # Acknowledgements
