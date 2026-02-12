@@ -56,7 +56,7 @@ Table: Comparison of Orszag–Tang simulation runtime on GPU, with and without c
 ![Orszag–Tang vortex. Left: out-of-plane current density at $t\omega_{pe}=500$. Right: running time on CPU and GPU vs number of Hermite modes.\label{fig:orszag}](figures/fig_orszagtang.png)
 
 
-# AI Usage Disclosure
+# AI usage disclosure
 
 GPT versions 3.5, 4o, and 5 were used in generating code and the corresponding documentation. Corrections and improvements to the code were implemented by the authors with AI assistance. GPT version 5.2 assisted in the drafting of this manuscript. All AI generated code and text was reviewed (and frequently modified) by the authors.
 
